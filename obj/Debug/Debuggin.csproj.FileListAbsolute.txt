@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2012\Projects\Debuggin\Debuggin\bin\Debug\Debuggin.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\Debuggin\Debuggin\bin\Debug\Debuggin.exe
+c:\users\eric\documents\visual studio 2012\Projects\Debuggin\Debuggin\bin\Debug\Debuggin.pdb
+c:\users\eric\documents\visual studio 2012\Projects\Debuggin\Debuggin\obj\Debug\Debuggin.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\Debuggin\Debuggin\obj\Debug\Debuggin.exe
+c:\users\eric\documents\visual studio 2012\Projects\Debuggin\Debuggin\obj\Debug\Debuggin.pdb
